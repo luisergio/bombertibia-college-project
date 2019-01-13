@@ -1,0 +1,118 @@
+﻿<Map>
+  <Levels>
+    <Level Number="1" UpOfPlayer="False" Walkable="True">
+      1; 2; 2; 1; 1; 1; 3; 1; 2; 1; 1; 1; 1; 1; 1; 1; 1
+      2; 2; 2; 3; 2; 2; 1; 2; 1; 2; 3; 1; 2; 1; 1; 3; 2
+      1; 3; 2; 3; 1; 1; 3; 3; 1; 3; 2; 3; 1; 1; 2; 2; 2
+      2; 3; 1; 2; 2; 2; 1; 1; 1; 3; 3; 1; 1; 3; 3; 1; 1
+      3; 2; 2; 2; 1; 1; 3; 2; 1; 1; 3; 2; 1; 3; 1; 3; 3
+      2; 1; 2; 1; 2; 3; 2; 2; 3; 1; 1; 1; 2; 2; 1; 2; 3
+      2; 2; 3; 1; 1; 1; 2; 1; 1; 1; 3; 1; 3; 2; 1; 1; 3
+      1; 2; 2; 1; 3; 3; 2; 3; 2; 3; 1; 1; 3; 3; 1; 3; 1
+      3; 1; 1; 3; 1; 1; 3; 2; 2; 1; 1; 2; 1; 3; 2; 3; 2
+      2; 1; 1; 1; 3; 3; 1; 2; 1; 1; 3; 1; 1; 2; 3; 1; 1
+      1; 1; 1; 3; 1; 1; 2; 1; 1; 2; 2; 1; 1; 1; 3; 2; 3
+      1; 3; 2; 1; 3; 3; 1; 2; 3; 1; 3; 3; 1; 1; 1; 2; 1
+      1; 2; 3; 2; 1; 1; 2; 2; 3; 2; 1; 1; 2; 1; 1; 3; 1
+      2; 3; 3; 1; 1; 2; 2; 1; 1; 1; 1; 1; 3; 3; 1; 2; 1
+      3; 3; 2; 1; 2; 1; 1; 1; 2; 1; 3; 3; 2; 1; 1; 3; 3
+      3; 2; 3; 2; 1; 2; 2; 1; 2; 3; 1; 1; 3; 1; 3; 2; 1
+      1; 1; 3; 1; 2; 1; 3; 2; 3; 1; 1; 1; 2; 3; 1; 1; 2
+    </Level>
+    <Level Number="2" UpOfPlayer="False" Walkable="False">
+      X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;  X;   X
+      X; 565; 566; 570; 566; 570; 566; 570; 566; 570; 566; 570; 566; 570; 566;  566; X
+      X; 584;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  584; X
+      X; 588;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  588; X
+      X; 584;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  584; X
+      X; 588;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  588; X
+      X; 584;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  584; X
+      X; 588;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  588; X
+      X; 584;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  584; X
+      X; 588;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  588; X
+      X; 584;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  584; X
+      X; 588;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  588; X
+      X; 584;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  584; X
+      X; 588;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  588; X
+      X; 584;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  584; X
+      X; 580; 566; 570; 566; 570; 566; 570; 566; 570; 566; 570; 566; 570; 566;  576; X
+      X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X
+    </Level>
+    <Level Number="3" UpOfPlayer="False" Walkable="False">
+      577; 567; 567; 563; 567; 563; 567; 563; 567; 563; 567; 563; 567; 563; 567; 578; X
+      581; 582; 569; 565; 569; 565; 569; 565; 569; 565; 569; 565; 569; 565; 569; 582; X
+      585; 586;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  586; X
+      581; 582;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  582; X
+      585; 586;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  586; X
+      581; 582;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  582; X
+      585; 586;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  586; X
+      581; 582;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  582; X
+      585; 586;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  586; X
+      581; 582;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  582; X
+      585; 586;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  586; X
+      581; 582;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  582; X
+      585; 586;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  586; X
+      581; 582;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  582; X
+      585; 586;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  586; X
+      579; 565; 569; 565; 569; 565; 569; 565; 569; 565; 569; 565; 569; 565; 569;  X;  X
+      X;   X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X
+    </Level>
+    <Level Number="4" UpOfPlayer="True" Walkable="True">
+      X;   X;   X;   X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X
+      X;   X;   X;   X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X; 581;  X;  X
+      X;   X;   X;   X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X; 585;  X;  X
+      X;   X;   X;   X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X; 581;  X;  X
+      X;   X;   X;   X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X; 585;  X;  X
+      X;   X;   X;   X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X; 581;  X;  X
+      X;   X;   X;   X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X; 585;  X;  X
+      X;   X;   X;   X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X; 581;  X;  X
+      X;   X;   X;   X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X; 585;  X;  X
+      X;   X;   X;   X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X; 581;  X;  X
+      X;   X;   X;   X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X; 585;  X;  X
+      X;   X;   X;   X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X; 581;  X;  X
+      X;   X;   X;   X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X; 585;  X;  X
+      X;   X;   X;   X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X; 581;  X;  X
+      X; 567; 567; 563; 567; 563; 567; 563; 567; 563; 567; 563; 567; 563; 573;   X;  X
+      X;   X;   X;   X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X
+      X;   X;   X;   X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X;  X
+    </Level>
+    <Level Number="5" UpOfPlayer="False" Walkable="False">
+      X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X
+      X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X
+      X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X
+      X;   X;   X; 100;   X; 100;   X; 100;   X; 100;   X; 100;   X; 100;   X;   X;   X
+      X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X
+      X;   X;   X; 100;   X; 100;   X; 100;   X; 100;   X; 100;   X; 100;   X;   X;   X
+      X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X
+      X;   X;   X; 100;   X; 100;   X; 100;   X; 100;   X; 100;   X; 100;   X;   X;   X
+      X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X
+      X;   X;   X; 100;   X; 100;   X; 100;   X; 100;   X; 100;   X; 100;   X;   X;   X
+      X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X
+      X;   X;   X; 100;   X; 100;   X; 100;   X; 100;   X; 100;   X; 100;   X;   X;   X
+      X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X
+      X;   X;   X; 100;   X; 100;   X; 100;   X; 100;   X; 100;   X; 100;   X;   X;   X
+      X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X
+      X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X
+      X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X;   X
+    </Level>
+  </Levels>
+  <Obstacle PrincipalImage="300" AnimationImages="301;302" FinalizationImages="" Percent="40">
+    O; O; O; O; O; O; O; O; O; O; O; O; O; O; O; O; O
+    O; O; O; O; O; O; O; O; O; O; O; O; O; O; O; O; O
+    O; O; O; O; X; X; X; X; X; X; X; X; X; O; O; O; O
+    O; O; O; O; X; O; X; O; X; O; X; O; X; O; O; O; O
+    O; O; X; X; X; X; X; X; X; X; X; X; X; X; X; O; O
+    O; O; X; O; X; O; X; O; X; O; X; O; X; O; X; O; O
+    O; O; X; X; X; X; X; X; X; X; X; X; X; X; X; O; O
+    O; O; X; O; X; O; X; O; X; O; X; O; X; O; X; O; O
+    O; O; X; X; X; X; X; X; X; X; X; X; X; X; X; O; O
+    O; O; X; O; X; O; X; O; X; O; X; O; X; O; X; O; O
+    O; O; X; X; X; X; X; X; X; X; X; X; X; X; X; O; O
+    O; O; X; O; X; O; X; O; X; O; X; O; X; O; X; O; O
+    O; O; X; X; X; X; X; X; X; X; X; X; X; X; X; O; O
+    O; O; O; O; X; O; X; O; X; O; X; O; X; O; O; O; O
+    O; O; O; O; X; X; X; X; X; X; X; X; X; O; O; O; O
+    O; O; O; O; O; O; O; O; O; O; O; O; O; O; O; O; O
+    O; O; O; O; O; O; O; O; O; O; O; O; O; O; O; O; O
+  </Obstacle>
+</Map>

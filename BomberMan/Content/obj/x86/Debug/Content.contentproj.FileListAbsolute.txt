@@ -1,0 +1,7 @@
+C:\Users\hp\Desktop\BomberMan\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Univap\ProjetoVIII\BomberMan\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BomberMan\Content\obj\x86\Debug\ResolveAssemblyReference.cache

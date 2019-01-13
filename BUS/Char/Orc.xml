@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Char ImagesPath="Images\Char\Orc\">
+
+  <Images>
+    <Movement>
+        <Image Direction="Down" Name="788" Step="2" />
+        <Image Direction="Down" Name="789" Step="0" />
+        <Image Direction="Down" Name="790" Step="1"/>
+
+        <Image Direction="Up" Name="791" Step="2" />
+        <Image Direction="Up" Name="792" Step="0" />
+        <Image Direction="Up" Name="793" Step="1" />
+        
+        <Image Direction="Right" Name="794" Step="2" />
+        <Image Direction="Right" Name="795" Step="0" />
+        <Image Direction="Right" Name="796" Step="1" />
+        
+        <Image Direction="Left" Name="797" Step="2" />
+        <Image Direction="Left" Name="798" Step="0" />
+        <Image Direction="Left" Name="799" Step="1" />
+    </Movement>
+    <Die>
+      <Image Name="800" Step="0" />
+      <Image Name="801" Step="1" />
+      <Image Name="802" Step="2" />
+    </Die>
+  </Images>
+    
+  
+</Char>

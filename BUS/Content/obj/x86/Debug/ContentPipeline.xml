@@ -1,0 +1,1481 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Images\Char\Warrior\3410.png</Source>
+      <Name>Images\Char\Warrior\3410</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3410.xnb</Output>
+      <Time>2010-02-26T22:29:58-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Warrior\3411.png</Source>
+      <Name>Images\Char\Warrior\3411</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3411.xnb</Output>
+      <Time>2010-02-26T22:29:58-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Warrior\3412.png</Source>
+      <Name>Images\Char\Warrior\3412</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3412.xnb</Output>
+      <Time>2010-02-26T22:29:58-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Warrior\3413.png</Source>
+      <Name>Images\Char\Warrior\3413</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3413.xnb</Output>
+      <Time>2010-02-26T22:29:58-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Warrior\3414.png</Source>
+      <Name>Images\Char\Warrior\3414</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3414.xnb</Output>
+      <Time>2010-02-26T22:29:58-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Warrior\3415.png</Source>
+      <Name>Images\Char\Warrior\3415</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3415.xnb</Output>
+      <Time>2010-02-26T22:29:58-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Warrior\3416.png</Source>
+      <Name>Images\Char\Warrior\3416</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3416.xnb</Output>
+      <Time>2010-02-26T22:29:58-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Warrior\3417.png</Source>
+      <Name>Images\Char\Warrior\3417</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3417.xnb</Output>
+      <Time>2010-02-26T22:29:58-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Warrior\3418.png</Source>
+      <Name>Images\Char\Warrior\3418</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3418.xnb</Output>
+      <Time>2010-02-26T22:29:58-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Warrior\3419.png</Source>
+      <Name>Images\Char\Warrior\3419</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3419.xnb</Output>
+      <Time>2010-02-26T22:29:58-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Warrior\3420.png</Source>
+      <Name>Images\Char\Warrior\3420</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3420.xnb</Output>
+      <Time>2010-02-26T22:29:58-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Warrior\3421.png</Source>
+      <Name>Images\Char\Warrior\3421</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3421.xnb</Output>
+      <Time>2010-02-26T22:29:58-02:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\1.png</Source>
+      <Name>Images\Maps\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\1.xnb</Output>
+      <Time>2010-03-05T21:28:28-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\2.png</Source>
+      <Name>Images\Maps\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\2.xnb</Output>
+      <Time>2010-03-05T21:28:28-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\3.png</Source>
+      <Name>Images\Maps\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\3.xnb</Output>
+      <Time>2010-03-05T21:28:28-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\100.png</Source>
+      <Name>Images\Maps\100</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\100.xnb</Output>
+      <Time>2010-03-06T10:56:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\14.png</Source>
+      <Name>Images\Maps\14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\14.xnb</Output>
+      <Time>2010-03-06T10:56:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\15.png</Source>
+      <Name>Images\Maps\15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\15.xnb</Output>
+      <Time>2010-03-06T10:56:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\16.png</Source>
+      <Name>Images\Maps\16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\16.xnb</Output>
+      <Time>2010-03-06T10:56:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\17.png</Source>
+      <Name>Images\Maps\17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\17.xnb</Output>
+      <Time>2010-03-06T10:56:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\18.png</Source>
+      <Name>Images\Maps\18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\18.xnb</Output>
+      <Time>2010-03-06T10:56:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\19.png</Source>
+      <Name>Images\Maps\19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\19.xnb</Output>
+      <Time>2010-03-06T10:56:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\20.png</Source>
+      <Name>Images\Maps\20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\20.xnb</Output>
+      <Time>2010-03-06T10:56:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\21.png</Source>
+      <Name>Images\Maps\21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\21.xnb</Output>
+      <Time>2010-03-06T10:56:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\22.png</Source>
+      <Name>Images\Maps\22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\22.xnb</Output>
+      <Time>2010-03-06T10:56:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\23.png</Source>
+      <Name>Images\Maps\23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\23.xnb</Output>
+      <Time>2010-03-06T10:56:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\24.png</Source>
+      <Name>Images\Maps\24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\24.xnb</Output>
+      <Time>2010-03-06T10:56:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\25.png</Source>
+      <Name>Images\Maps\25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\25.xnb</Output>
+      <Time>2010-03-06T10:56:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\26.png</Source>
+      <Name>Images\Maps\26</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\26.xnb</Output>
+      <Time>2010-03-06T10:56:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\27.png</Source>
+      <Name>Images\Maps\27</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\27.xnb</Output>
+      <Time>2010-03-06T10:56:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\28.png</Source>
+      <Name>Images\Maps\28</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\28.xnb</Output>
+      <Time>2010-03-06T10:56:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\29.png</Source>
+      <Name>Images\Maps\29</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\29.xnb</Output>
+      <Time>2010-03-06T10:56:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\563.png</Source>
+      <Name>Images\Maps\563</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\563.xnb</Output>
+      <Time>2010-03-06T10:56:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\564.png</Source>
+      <Name>Images\Maps\564</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\564.xnb</Output>
+      <Time>2010-03-06T10:56:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\565.png</Source>
+      <Name>Images\Maps\565</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\565.xnb</Output>
+      <Time>2010-03-06T10:56:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\566.png</Source>
+      <Name>Images\Maps\566</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\566.xnb</Output>
+      <Time>2010-03-06T10:56:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\567.png</Source>
+      <Name>Images\Maps\567</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\567.xnb</Output>
+      <Time>2010-03-06T10:56:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\568.png</Source>
+      <Name>Images\Maps\568</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\568.xnb</Output>
+      <Time>2010-03-06T10:56:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\569.png</Source>
+      <Name>Images\Maps\569</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\569.xnb</Output>
+      <Time>2010-03-06T10:56:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\570.png</Source>
+      <Name>Images\Maps\570</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\570.xnb</Output>
+      <Time>2010-03-06T10:56:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\571.png</Source>
+      <Name>Images\Maps\571</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\571.xnb</Output>
+      <Time>2010-03-06T10:56:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\572.png</Source>
+      <Name>Images\Maps\572</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\572.xnb</Output>
+      <Time>2010-03-06T10:56:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\573.png</Source>
+      <Name>Images\Maps\573</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\573.xnb</Output>
+      <Time>2010-03-06T10:56:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\574.png</Source>
+      <Name>Images\Maps\574</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\574.xnb</Output>
+      <Time>2010-03-06T10:56:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\575.png</Source>
+      <Name>Images\Maps\575</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\575.xnb</Output>
+      <Time>2010-03-06T10:56:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\576.png</Source>
+      <Name>Images\Maps\576</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\576.xnb</Output>
+      <Time>2010-03-06T10:56:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\577.png</Source>
+      <Name>Images\Maps\577</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\577.xnb</Output>
+      <Time>2010-03-06T10:56:16-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\578.png</Source>
+      <Name>Images\Maps\578</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\578.xnb</Output>
+      <Time>2010-03-06T10:56:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\579.png</Source>
+      <Name>Images\Maps\579</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\579.xnb</Output>
+      <Time>2010-03-06T10:56:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\580.png</Source>
+      <Name>Images\Maps\580</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\580.xnb</Output>
+      <Time>2010-03-06T10:56:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\581.png</Source>
+      <Name>Images\Maps\581</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\581.xnb</Output>
+      <Time>2010-03-06T10:56:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\582.png</Source>
+      <Name>Images\Maps\582</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\582.xnb</Output>
+      <Time>2010-03-06T10:56:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\583.png</Source>
+      <Name>Images\Maps\583</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\583.xnb</Output>
+      <Time>2010-03-06T10:56:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\584.png</Source>
+      <Name>Images\Maps\584</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\584.xnb</Output>
+      <Time>2010-03-06T10:56:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\585.png</Source>
+      <Name>Images\Maps\585</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\585.xnb</Output>
+      <Time>2010-03-06T10:56:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\586.png</Source>
+      <Name>Images\Maps\586</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\586.xnb</Output>
+      <Time>2010-03-06T10:56:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\587.png</Source>
+      <Name>Images\Maps\587</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\587.xnb</Output>
+      <Time>2010-03-06T10:56:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\588.png</Source>
+      <Name>Images\Maps\588</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\588.xnb</Output>
+      <Time>2010-03-06T10:56:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\40.png</Source>
+      <Name>Images\Maps\40</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\40.xnb</Output>
+      <Time>2010-03-06T12:31:04-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bomb\492.png</Source>
+      <Name>Images\Bomb\492</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\492.xnb</Output>
+      <Time>2010-03-05T19:29:42-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bomb\493.png</Source>
+      <Name>Images\Bomb\493</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\493.xnb</Output>
+      <Time>2010-03-05T19:29:42-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bomb\494.png</Source>
+      <Name>Images\Bomb\494</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\494.xnb</Output>
+      <Time>2010-03-05T20:12:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bomb\495.png</Source>
+      <Name>Images\Bomb\495</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\495.xnb</Output>
+      <Time>2010-03-05T20:12:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bomb\largeBomb.png</Source>
+      <Name>Images\Bomb\largeBomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\largeBomb.xnb</Output>
+      <Time>2010-03-05T18:59:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bomb\mediumBomb.png</Source>
+      <Name>Images\Bomb\mediumBomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\mediumBomb.xnb</Output>
+      <Time>2010-03-05T18:59:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Bomb\smallBomb.png</Source>
+      <Name>Images\Bomb\smallBomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\smallBomb.xnb</Output>
+      <Time>2010-03-05T18:59:26-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\114.png</Source>
+      <Name>Images\Maps\114</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\114.xnb</Output>
+      <Time>2010-03-07T07:23:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\205.png</Source>
+      <Name>Images\Maps\205</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\205.xnb</Output>
+      <Time>2010-03-07T07:23:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\298.png</Source>
+      <Name>Images\Maps\298</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\298.xnb</Output>
+      <Time>2010-03-07T07:23:18-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\300.png</Source>
+      <Name>Images\Maps\300</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\300.xnb</Output>
+      <Time>2010-03-08T21:03:10-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\301.png</Source>
+      <Name>Images\Maps\301</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\301.xnb</Output>
+      <Time>2010-03-08T21:03:10-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\302.png</Source>
+      <Name>Images\Maps\302</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\302.xnb</Output>
+      <Time>2010-03-08T21:03:10-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\303.png</Source>
+      <Name>Images\Maps\303</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\303.xnb</Output>
+      <Time>2010-03-08T21:03:10-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\304.png</Source>
+      <Name>Images\Maps\304</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\304.xnb</Output>
+      <Time>2010-03-08T21:03:10-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Warrior\3853.png</Source>
+      <Name>Images\Char\Warrior\3853</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3853.xnb</Output>
+      <Time>2010-03-10T19:34:55.6959581-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Warrior\3854.png</Source>
+      <Name>Images\Char\Warrior\3854</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3854.xnb</Output>
+      <Time>2010-03-10T19:34:55.6759581-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Warrior\3855.png</Source>
+      <Name>Images\Char\Warrior\3855</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3855.xnb</Output>
+      <Time>2010-03-10T19:34:55.6929581-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4542.png</Source>
+      <Name>Images\Maps\4542</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4542.xnb</Output>
+      <Time>2010-03-20T15:01:05.8102-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\AddOn\BombQuantity3.png</Source>
+      <Name>Images\AddOn\BombQuantity3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\BombQuantity3.xnb</Output>
+      <Time>2010-03-20T12:48:29.725-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\AddOn\BombQuantity4.png</Source>
+      <Name>Images\AddOn\BombQuantity4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\BombQuantity4.xnb</Output>
+      <Time>2010-03-20T12:48:29.728-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\AddOn\BombSize3.png</Source>
+      <Name>Images\AddOn\BombSize3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\BombSize3.xnb</Output>
+      <Time>2010-03-20T12:48:29.736-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\AddOn\BombSize4.png</Source>
+      <Name>Images\AddOn\BombSize4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\BombSize4.xnb</Output>
+      <Time>2010-03-20T12:48:29.739-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\AddOn\FullBombSize3.png</Source>
+      <Name>Images\AddOn\FullBombSize3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\FullBombSize3.xnb</Output>
+      <Time>2010-03-20T12:48:29.746-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\AddOn\FullBombSize4.png</Source>
+      <Name>Images\AddOn\FullBombSize4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\FullBombSize4.xnb</Output>
+      <Time>2010-03-20T12:48:29.749-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\AddOn\Speed3.png</Source>
+      <Name>Images\AddOn\Speed3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\Speed3.xnb</Output>
+      <Time>2010-03-20T12:48:29.757-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\AddOn\Speed4.png</Source>
+      <Name>Images\AddOn\Speed4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\Speed4.xnb</Output>
+      <Time>2010-03-20T12:48:28.34-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\Menu-You-Win.png</Source>
+      <Name>Images\Menu\Menu-You-Win</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Menu\Menu-You-Win.xnb</Output>
+      <Time>2010-06-05T16:37:40.908-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\Menu-About-Page.png</Source>
+      <Name>Images\Menu\Menu-About-Page</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Menu\Menu-About-Page.xnb</Output>
+      <Time>2010-06-05T11:46:55.743-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\Menu-Cancel.png</Source>
+      <Name>Images\Menu\Menu-Cancel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Menu\Menu-Cancel.xnb</Output>
+      <Time>2010-05-20T19:05:16.096-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\Menu-Retry.png</Source>
+      <Name>Images\Menu\Menu-Retry</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Menu\Menu-Retry.xnb</Output>
+      <Time>2010-05-20T19:05:16.083-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\Menu-About.png</Source>
+      <Name>Images\Menu\Menu-About</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Menu\Menu-About.xnb</Output>
+      <Time>2010-05-19T21:46:54.568-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\Menu-Close.png</Source>
+      <Name>Images\Menu\Menu-Close</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Menu\Menu-Close.xnb</Output>
+      <Time>2010-05-19T21:46:55.068-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Menu\Menu-Start.png</Source>
+      <Name>Images\Menu\Menu-Start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Menu\Menu-Start.xnb</Output>
+      <Time>2010-05-19T21:46:55.543-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Orc\793.png</Source>
+      <Name>Images\Char\Orc\793</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\793.xnb</Output>
+      <Time>2010-05-15T10:41:18.861-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Orc\788.png</Source>
+      <Name>Images\Char\Orc\788</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\788.xnb</Output>
+      <Time>2010-05-03T19:43:34.984-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Orc\789.png</Source>
+      <Name>Images\Char\Orc\789</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\789.xnb</Output>
+      <Time>2010-05-03T19:51:45.645-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Orc\790.png</Source>
+      <Name>Images\Char\Orc\790</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\790.xnb</Output>
+      <Time>2010-05-03T19:51:58.373-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Orc\791.png</Source>
+      <Name>Images\Char\Orc\791</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\791.xnb</Output>
+      <Time>2010-05-03T19:52:04.757-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Orc\792.png</Source>
+      <Name>Images\Char\Orc\792</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\792.xnb</Output>
+      <Time>2010-05-03T19:52:09.172-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Orc\794.png</Source>
+      <Name>Images\Char\Orc\794</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\794.xnb</Output>
+      <Time>2010-05-03T19:52:25.859-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Orc\795.png</Source>
+      <Name>Images\Char\Orc\795</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\795.xnb</Output>
+      <Time>2010-05-03T19:52:30.859-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Orc\796.png</Source>
+      <Name>Images\Char\Orc\796</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\796.xnb</Output>
+      <Time>2010-05-03T19:42:26.112-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Orc\797.png</Source>
+      <Name>Images\Char\Orc\797</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\797.xnb</Output>
+      <Time>2010-05-03T19:42:46.338-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Orc\798.png</Source>
+      <Name>Images\Char\Orc\798</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\798.xnb</Output>
+      <Time>2010-05-03T19:42:53.165-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Orc\799.png</Source>
+      <Name>Images\Char\Orc\799</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\799.xnb</Output>
+      <Time>2010-05-03T19:43:05.029-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Orc\800.png</Source>
+      <Name>Images\Char\Orc\800</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\800.xnb</Output>
+      <Time>2010-05-03T19:43:10.786-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Orc\801.png</Source>
+      <Name>Images\Char\Orc\801</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\801.xnb</Output>
+      <Time>2010-05-03T19:43:19.556-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Char\Orc\802.png</Source>
+      <Name>Images\Char\Orc\802</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\802.xnb</Output>
+      <Time>2010-05-03T19:43:26.846-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\1225.png</Source>
+      <Name>Images\Maps\1225</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\1225.xnb</Output>
+      <Time>2010-03-20T19:07:33.5132-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\1226.png</Source>
+      <Name>Images\Maps\1226</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\1226.xnb</Output>
+      <Time>2010-03-20T19:07:34.0092-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\1227.png</Source>
+      <Name>Images\Maps\1227</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\1227.xnb</Output>
+      <Time>2010-03-20T19:07:34.4332-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4263.png</Source>
+      <Name>Images\Maps\4263</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4263.xnb</Output>
+      <Time>2010-03-20T18:37:30.2422-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4264.png</Source>
+      <Name>Images\Maps\4264</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4264.xnb</Output>
+      <Time>2010-03-20T18:37:30.2462-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4265.png</Source>
+      <Name>Images\Maps\4265</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4265.xnb</Output>
+      <Time>2010-03-20T18:37:30.2492-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4266.png</Source>
+      <Name>Images\Maps\4266</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4266.xnb</Output>
+      <Time>2010-03-20T18:37:30.2532-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4267.png</Source>
+      <Name>Images\Maps\4267</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4267.xnb</Output>
+      <Time>2010-03-20T18:37:30.2562-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4268.png</Source>
+      <Name>Images\Maps\4268</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4268.xnb</Output>
+      <Time>2010-03-20T18:37:30.2602-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4270.png</Source>
+      <Name>Images\Maps\4270</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4270.xnb</Output>
+      <Time>2010-03-20T18:37:30.2642-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4271.png</Source>
+      <Name>Images\Maps\4271</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4271.xnb</Output>
+      <Time>2010-03-20T18:37:30.2672-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4272.png</Source>
+      <Name>Images\Maps\4272</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4272.xnb</Output>
+      <Time>2010-03-20T18:37:30.2712-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4273.png</Source>
+      <Name>Images\Maps\4273</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4273.xnb</Output>
+      <Time>2010-03-20T18:37:30.2752-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4274.png</Source>
+      <Name>Images\Maps\4274</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4274.xnb</Output>
+      <Time>2010-03-20T18:37:30.2792-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4275.png</Source>
+      <Name>Images\Maps\4275</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4275.xnb</Output>
+      <Time>2010-03-20T18:37:30.2822-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4276.png</Source>
+      <Name>Images\Maps\4276</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4276.xnb</Output>
+      <Time>2010-03-20T18:37:30.2862-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4277.png</Source>
+      <Name>Images\Maps\4277</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4277.xnb</Output>
+      <Time>2010-03-20T18:37:30.2892-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4278.png</Source>
+      <Name>Images\Maps\4278</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4278.xnb</Output>
+      <Time>2010-03-20T18:37:30.2302-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4279.png</Source>
+      <Name>Images\Maps\4279</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4279.xnb</Output>
+      <Time>2010-03-20T18:37:30.2342-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4280.png</Source>
+      <Name>Images\Maps\4280</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4280.xnb</Output>
+      <Time>2010-03-20T18:37:30.2382-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\101.png</Source>
+      <Name>Images\Maps\101</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\101.xnb</Output>
+      <Time>2010-03-20T15:01:41.6032-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4525.png</Source>
+      <Name>Images\Maps\4525</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4525.xnb</Output>
+      <Time>2010-03-20T15:01:02.7412-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4526.png</Source>
+      <Name>Images\Maps\4526</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4526.xnb</Output>
+      <Time>2010-03-20T15:01:02.7592-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4527.png</Source>
+      <Name>Images\Maps\4527</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4527.xnb</Output>
+      <Time>2010-03-20T15:01:02.7622-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4528.png</Source>
+      <Name>Images\Maps\4528</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4528.xnb</Output>
+      <Time>2010-03-20T15:01:02.7822-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4529.png</Source>
+      <Name>Images\Maps\4529</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4529.xnb</Output>
+      <Time>2010-03-20T15:01:02.7952-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4530.png</Source>
+      <Name>Images\Maps\4530</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4530.xnb</Output>
+      <Time>2010-03-20T15:01:02.7982-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4531.png</Source>
+      <Name>Images\Maps\4531</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4531.xnb</Output>
+      <Time>2010-03-20T15:01:02.8142-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4532.png</Source>
+      <Name>Images\Maps\4532</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4532.xnb</Output>
+      <Time>2010-03-20T15:01:02.8292-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4533.png</Source>
+      <Name>Images\Maps\4533</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4533.xnb</Output>
+      <Time>2010-03-20T15:01:02.8422-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4534.png</Source>
+      <Name>Images\Maps\4534</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4534.xnb</Output>
+      <Time>2010-03-20T15:01:02.8542-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4535.png</Source>
+      <Name>Images\Maps\4535</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4535.xnb</Output>
+      <Time>2010-03-20T15:01:02.8772-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4536.png</Source>
+      <Name>Images\Maps\4536</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4536.xnb</Output>
+      <Time>2010-03-20T15:01:02.8972-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4537.png</Source>
+      <Name>Images\Maps\4537</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4537.xnb</Output>
+      <Time>2010-03-20T15:01:02.9062-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4538.png</Source>
+      <Name>Images\Maps\4538</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4538.xnb</Output>
+      <Time>2010-03-20T15:01:02.9082-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4539.png</Source>
+      <Name>Images\Maps\4539</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4539.xnb</Output>
+      <Time>2010-03-20T15:01:02.9282-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4540.png</Source>
+      <Name>Images\Maps\4540</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4540.xnb</Output>
+      <Time>2010-03-20T15:01:02.9312-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4541.png</Source>
+      <Name>Images\Maps\4541</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4541.xnb</Output>
+      <Time>2010-03-20T15:01:02.9332-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\45422.png</Source>
+      <Name>Images\Maps\45422</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\45422.xnb</Output>
+      <Time>2010-03-20T15:01:02.7172-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4543.png</Source>
+      <Name>Images\Maps\4543</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4543.xnb</Output>
+      <Time>2010-03-20T15:01:05.8122-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4614.png</Source>
+      <Name>Images\Maps\4614</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4614.xnb</Output>
+      <Time>2010-03-20T15:01:05.8162-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4615.png</Source>
+      <Name>Images\Maps\4615</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4615.xnb</Output>
+      <Time>2010-03-20T15:01:05.8192-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Images\Maps\4616.png</Source>
+      <Name>Images\Maps\4616</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4616.xnb</Output>
+      <Time>2010-03-20T15:01:05.8412-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\addon.wav</Source>
+      <Name>Sounds\addon</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Sounds\addon.xnb</Output>
+      <Time>2010-06-02T17:24:02.026-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\bomb3.wav</Source>
+      <Name>Sounds\bomb3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Sounds\bomb3.xnb</Output>
+      <Time>2010-06-02T17:03:11.779-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\bomb2.wav</Source>
+      <Name>Sounds\bomb2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Sounds\bomb2.xnb</Output>
+      <Time>2010-06-02T16:49:35.873-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\temple.wav</Source>
+      <Name>Sounds\temple</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Sounds\temple.xnb</Output>
+      <Time>2010-06-02T16:28:59.231-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\bomb1.wav</Source>
+      <Name>Sounds\bomb1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Sounds\bomb1.xnb</Output>
+      <Time>2010-06-02T16:11:18.262-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\menu.wav</Source>
+      <Name>Sounds\menu</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Sounds\menu.xnb</Output>
+      <Time>2010-06-02T15:50:46.741-03:00</Time>
+    </Item>
+    <Item>
+      <Source>tahoma.spritefont</Source>
+      <Name>tahoma</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\tahoma.xnb</Output>
+      <Time>2010-06-05T14:05:55.111-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Kootenay.spritefont</Source>
+      <Name>Kootenay</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Kootenay.xnb</Output>
+      <Time>2010-06-06T07:04:29.994-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Matura.spritefont</Source>
+      <Name>Matura</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Matura.xnb</Output>
+      <Time>2010-06-06T07:04:29.961-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\Content\</RootDirectory>
+      <LoggerRootDirectory>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T17:42:32-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T17:43:28-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T17:43:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T17:48:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T17:48:50-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-05-25T09:18:36.018102-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

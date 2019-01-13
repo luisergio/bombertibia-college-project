@@ -1,0 +1,782 @@
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\3410.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\3411.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\3412.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\3413.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\3414.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\3415.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\3416.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\3417.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\3418.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\3419.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\3420.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\3421.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\BUS.dll
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\BUS.pdb
+C:\Users\hp\Desktop\BomberMan\BUS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Desktop\BomberMan\BUS\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\hp\Desktop\BomberMan\BUS\obj\x86\Debug\BUS.dll
+C:\Users\hp\Desktop\BomberMan\BUS\obj\x86\Debug\BUS.pdb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\1.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\2.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\3.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\100.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\14.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\15.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\16.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\17.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\18.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\19.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\20.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\21.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\22.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\23.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\24.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\25.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\26.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\27.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\28.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\29.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\563.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\564.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\565.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\566.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\567.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\568.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\569.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\570.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\571.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\572.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\573.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\574.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\575.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\576.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\577.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\578.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\579.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\580.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\581.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\582.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\583.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\584.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\585.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\586.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\587.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\588.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\40.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\492.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\493.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\494.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\495.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\largeBomb.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\mediumBomb.xnb
+C:\Users\hp\Desktop\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\smallBomb.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\3410.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\3411.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\3412.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\3413.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\3414.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\3415.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\3416.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\3417.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\3418.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\3419.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\3420.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\3421.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\1.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\2.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\3.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\100.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\14.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\15.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\16.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\17.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\18.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\19.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\20.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\21.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\22.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\23.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\24.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\25.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\26.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\27.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\28.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\29.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\563.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\564.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\565.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\566.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\567.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\568.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\569.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\570.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\571.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\572.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\573.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\574.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\575.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\576.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\577.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\578.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\579.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\580.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\581.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\582.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\583.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\584.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\585.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\586.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\587.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\588.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\40.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\492.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\493.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\494.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\495.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\largeBomb.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\mediumBomb.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\smallBomb.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\BUS.dll
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\bin\x86\Debug\BUS.pdb
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\obj\x86\Debug\BUS.dll
+C:\Users\hp\Documents\Faculdade\7º Semestre\BomberMan\BUS\obj\x86\Debug\BUS.pdb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\1.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\2.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\3.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\100.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\14.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\15.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\16.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\17.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\18.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\19.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\20.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\21.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\22.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\23.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\24.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\25.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\26.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\27.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\28.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\29.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\563.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\564.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\565.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\566.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\567.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\568.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\569.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\570.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\571.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\572.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\573.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\574.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\575.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\576.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\577.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\578.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\579.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\580.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\581.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\582.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\583.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\584.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\585.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\586.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\587.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\588.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\40.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\492.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\493.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\494.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\495.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\largeBomb.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\mediumBomb.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\smallBomb.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\BUS.dll
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\BUS.pdb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\obj\x86\Debug\BUS.dll
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\obj\x86\Debug\BUS.pdb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\114.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\205.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\298.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Univap\ProjetoVIII\BomberMan\BUS\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\1.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\2.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\3.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\100.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\14.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\15.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\16.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\17.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\18.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\19.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\20.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\21.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\22.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\23.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\24.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\25.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\26.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\27.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\28.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\29.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\563.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\564.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\565.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\566.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\567.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\568.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\569.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\570.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\571.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\572.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\573.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\574.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\575.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\576.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\577.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\578.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\579.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\580.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\581.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\582.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\583.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\584.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\585.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\586.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\587.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\588.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\40.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\492.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\493.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\494.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\495.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\largeBomb.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\mediumBomb.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\smallBomb.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\114.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\205.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\298.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\300.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\301.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\302.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\303.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\304.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\BUS.dll
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\BUS.pdb
+F:\Univap\ProjetoVIII\BomberMan\BUS\obj\x86\Debug\BUS.dll
+F:\Univap\ProjetoVIII\BomberMan\BUS\obj\x86\Debug\BUS.pdb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3410.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3411.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3412.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3413.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3414.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3415.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3416.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3417.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3418.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3419.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3420.xnb
+F:\Univap\ProjetoVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3421.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3410.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3411.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3412.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3413.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3414.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3415.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3416.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3417.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3418.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3419.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3420.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3421.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\1.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\2.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\3.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\100.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\14.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\15.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\16.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\17.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\18.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\19.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\20.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\21.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\22.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\23.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\24.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\25.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\26.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\27.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\28.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\29.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\563.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\564.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\565.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\566.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\567.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\568.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\569.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\570.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\571.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\572.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\573.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\574.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\575.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\576.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\577.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\578.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\579.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\580.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\581.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\582.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\583.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\584.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\585.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\586.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\587.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\588.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\40.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\492.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\493.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\494.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\495.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\largeBomb.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\mediumBomb.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\smallBomb.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\114.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\205.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\298.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\300.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\301.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\302.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\303.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\304.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3853.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3854.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3855.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\Speed.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\BombSize.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\BUS.dll
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\BUS.pdb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\obj\x86\Debug\BUS.dll
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\obj\x86\Debug\BUS.pdb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\FullBombSize.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\BombQuantity.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\BombQuantity2.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\BombSize2.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\FullBombSize2.xnb
+C:\Users\Michael\Univap\ProjVIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\Speed2.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3410.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3411.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3412.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3413.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3414.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3415.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3416.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3417.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3418.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3419.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3420.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3421.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\1.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\2.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\3.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\100.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\14.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\15.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\16.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\17.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\18.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\19.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\20.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\21.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\22.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\23.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\24.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\25.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\26.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\27.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\28.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\29.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\563.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\564.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\565.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\566.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\567.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\568.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\569.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\570.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\571.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\572.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\573.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\574.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\575.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\576.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\577.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\578.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\579.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\580.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\581.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\582.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\583.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\584.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\585.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\586.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\587.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\588.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\40.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\492.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\493.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\494.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\495.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\largeBomb.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\mediumBomb.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\smallBomb.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\114.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\205.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\298.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\300.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\301.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\302.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\303.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\304.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3853.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3854.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3855.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\BombQuantity3.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\BombQuantity4.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\BombSize3.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\BombSize4.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\FullBombSize3.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\FullBombSize4.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\Speed3.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\Speed4.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\BUS.dll
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\BUS.pdb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\obj\x86\Debug\BUS.dll
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\obj\x86\Debug\BUS.pdb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4542.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4525.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4526.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4527.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4528.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4529.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4530.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4531.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4532.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4533.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4534.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4535.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4536.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4537.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4538.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4539.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4540.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4541.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\45422.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4543.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4614.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4615.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4616.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\101.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4263.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4264.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4265.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4266.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4267.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4268.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4270.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4271.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4272.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4273.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4274.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4275.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4276.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4277.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4278.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4279.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4280.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\1225.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\1226.xnb
+C:\Users\hp\Desktop\Compartilhada\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\1227.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3410.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3411.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3412.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3413.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3414.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3415.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3416.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3417.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3418.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3419.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3420.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3421.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\300.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\301.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\302.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\303.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\304.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3853.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3854.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3855.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4542.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\BombQuantity3.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\BombQuantity4.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\BombSize3.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\BombSize4.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\FullBombSize3.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\FullBombSize4.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\Speed3.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\Speed4.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\1225.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\1226.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\1227.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4263.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4264.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4265.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4266.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4267.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4268.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4270.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4271.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4272.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4273.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4274.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4275.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4276.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4277.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4278.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4279.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4280.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\101.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4525.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4526.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4527.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4528.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4529.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4530.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4531.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4532.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4533.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4534.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4535.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4536.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4537.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4538.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4539.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4540.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4541.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\45422.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4543.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4614.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4615.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4616.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\788.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\789.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\790.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\791.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\792.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\793.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\794.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\795.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\796.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\797.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\798.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\799.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\800.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\801.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\802.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Menu\Menu-About.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Menu\Menu-Close.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Menu\Menu-Start.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Menu\Menu-Cancel.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Menu\Menu-Retry.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Sounds\menu.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Sounds\bomb1.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Sounds\temple.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Sounds\bomb2.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Sounds\bomb3.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Sounds\addon.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Menu\Menu-About-Page.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\tahoma.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Menu\Menu-You-Win.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Kootenay.xnb
+C:\Users\hp\Documents\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Matura.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3410.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3411.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3412.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3413.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3414.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3415.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3416.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3417.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3418.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3419.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3420.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3421.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\1.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\2.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\3.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\100.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\14.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\15.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\16.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\17.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\18.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\19.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\20.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\21.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\22.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\23.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\24.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\25.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\26.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\27.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\28.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\29.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\563.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\564.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\565.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\566.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\567.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\568.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\569.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\570.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\571.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\572.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\573.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\574.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\575.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\576.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\577.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\578.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\579.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\580.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\581.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\582.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\583.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\584.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\585.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\586.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\587.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\588.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\40.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\492.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\493.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\494.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\495.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\largeBomb.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\mediumBomb.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Bomb\smallBomb.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\114.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\205.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\298.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\300.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\301.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\302.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\303.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\304.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3853.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3854.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Warrior\3855.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4542.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\BombQuantity3.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\BombQuantity4.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\BombSize3.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\BombSize4.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\FullBombSize3.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\FullBombSize4.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\Speed3.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\AddOn\Speed4.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Menu\Menu-You-Win.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Menu\Menu-About-Page.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Menu\Menu-Cancel.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Menu\Menu-Retry.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Menu\Menu-About.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Menu\Menu-Close.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Menu\Menu-Start.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\793.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\788.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\789.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\790.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\791.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\792.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\794.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\795.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\796.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\797.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\798.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\799.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\800.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\801.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Char\Orc\802.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\1225.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\1226.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\1227.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4263.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4264.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4265.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4266.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4267.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4268.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4270.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4271.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4272.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4273.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4274.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4275.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4276.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4277.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4278.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4279.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4280.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\101.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4525.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4526.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4527.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4528.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4529.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4530.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4531.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4532.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4533.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4534.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4535.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4536.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4537.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4538.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4539.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4540.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4541.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\45422.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4543.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4614.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4615.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Images\Maps\4616.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Sounds\addon.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Sounds\bomb3.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Sounds\bomb2.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Sounds\temple.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Sounds\bomb1.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Sounds\menu.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\tahoma.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Kootenay.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\Content\Matura.xnb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\BUS.dll
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\bin\x86\Debug\BUS.pdb
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\obj\x86\Debug\BUS.dll
+E:\Dados\Luis Sérgio\Informática\Faculdade\7º Semestre\2-6 Projeto VIII\BomberMan\BUS\obj\x86\Debug\BUS.pdb

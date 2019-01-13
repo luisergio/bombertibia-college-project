@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Char ImagesPath="Images\Char\Warrior\">
+
+  <Images>
+    <Movement>
+        <Image Direction="Down" Name="3410" Step="2" />
+        <Image Direction="Down" Name="3411" Step="0" />
+        <Image Direction="Down" Name="3412" Step="1"/>
+
+        <Image Direction="Up" Name="3413" Step="2" />
+        <Image Direction="Up" Name="3414" Step="0" />
+        <Image Direction="Up" Name="3415" Step="1" />
+        
+        <Image Direction="Right" Name="3416" Step="2" />
+        <Image Direction="Right" Name="3417" Step="0" />
+        <Image Direction="Right" Name="3418" Step="1" />
+        
+        <Image Direction="Left" Name="3419" Step="2" />
+        <Image Direction="Left" Name="3420" Step="0" />
+        <Image Direction="Left" Name="3421" Step="1" />
+    </Movement>
+    <Die>
+      <Image Name="3853" Step="0" />
+      <Image Name="3854" Step="1" />
+      <Image Name="3855" Step="2" />
+    </Die>
+  </Images>
+    
+  
+</Char>
